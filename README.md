@@ -17,7 +17,7 @@ In addition to quantitative analysis, I also have a deep understanding of financ
 
 
 <div align="center">
-<img src="https://github.com/chrislernunes/chrislernunes/blob/main/previn-samuel-vr6nMSlyTJs-unsplash.jpg?raw=true" align="center" style="width: 85%" style="height: 25%" />
+<img src="https://github.com/chrislernunes/chrislernunes/blob/main/Mumbai%2C%20India.jpg?raw=true" align="center" style="width: 85%" style="height: 25%" />
 </div>  
 
 <br />
