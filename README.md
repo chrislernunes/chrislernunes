@@ -14,9 +14,3 @@ A Python‑based backtesting engine for systematic traders and researchers. Focu
 
 ### **Volatility‑arbitrage**
 A strategy research project exploring dispersion trading — capturing the premium between index implied volatility and its constituents’ weighted implied volatilities. Includes conceptual analysis and data exploration to assess mean‑reversion of implied correlation.
-
----
-
-## 📫 Connect with Me
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/chrisler-nunes-335333161/  
